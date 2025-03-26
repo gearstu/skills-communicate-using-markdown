@@ -5,4 +5,4 @@
 ##### This is H5
 ###### This is H6
 
-test the markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
